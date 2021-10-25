@@ -7,7 +7,7 @@ using namespace std;
 //dsdsdsds
 //sdsdsdsdsdsd
 
-class Rectangulosdsssfdcxcxxzxcxccc
+class Rectangulos // 5tra 
 {
       private: // atributos
       float largo,ancho;
