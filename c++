@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//this is a test
+
 class Rectangulo
 {
       private: // atributos
